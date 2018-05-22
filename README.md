@@ -7,7 +7,7 @@ The main aim of the project is implement an **optimal path finding** algorithm t
 
 The results from my program have been visualised below for convenience:
 
-<img src="readmeassets/rover-bachelor.png" height=400 />
+<img src="./readmeAssets/rover-bachelor.png" height=400 />
 
 ```
     Code execution time: 24.74 seconds
@@ -15,7 +15,7 @@ The results from my program have been visualised below for convenience:
     Path traversal time: 2167.5 island seconds
     
 ```
-<img src="readmeassets/bachelor-wedding.png" height=400 />
+<img src="./readmeAssets/bachelor-wedding.png" height=400 />
 
 ```
     Code execution time: 12 seconds
